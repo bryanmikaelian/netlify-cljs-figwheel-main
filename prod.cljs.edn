@@ -1,0 +1,3 @@
+{:main hello.world
+ :output-dir "resources/public/cljs-out"}
+
