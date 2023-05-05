@@ -7,3 +7,6 @@
 
 This a template that lets you deploy a `figwheel-main`-based ClojureScript project on Netlify.
 
+## Interested in using `shadow-cljs`?
+
+Checkout https://github.com/bryanmikaelian/netlify-cljs-shadowcljs
