@@ -7,6 +7,8 @@
 
 This a lightweight template that lets you deploy a `figwheel-main`-based ClojureScript project on Netlify.
 
+A demo of this site can be found at https://cljs-demo-figwheel-main.netlify.app/
+
 # Commands
 
 Two base builds have been provided:
