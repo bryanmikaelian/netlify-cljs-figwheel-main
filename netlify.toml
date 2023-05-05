@@ -1,0 +1,3 @@
+[build]
+  command = "clj -m figwheel.main -O advanced -bo prod"
+  publish = "./resources/public"
